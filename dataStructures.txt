@@ -1,0 +1,5 @@
+Custom defined data structure such as struct in c to create new datatypes
+linked list are custom data variables
+
+accessing,searching,adding and deleting a values is the basis in the creation of dataStructures in programming
+Arrays are used as building blocks for variables eg strings in create
